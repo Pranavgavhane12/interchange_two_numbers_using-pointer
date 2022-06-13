@@ -1,7 +1,6 @@
 # interchange_two_numbers_using-pointer
  
-
- #include<stdio.h>
+#include<stdio.h>
 void swapnum (int *num1, int *num2)
 { 
 int tempnum; 
